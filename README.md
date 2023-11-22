@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlexanderVoldby
-- 👀 I’m interested in AI and machine learning, especially using Python
-- 🌱 I’m currently learning Python but i want to broaden my knowledge to other languages
+My name is Alexander Voldby, I am currently pursuing a bachelors degree in artificial intelligence and data science at the Technical university of Denmark
+
+My work centers around artificial intelligence and using models to solve real-life problems. I have worked primarily with deep learning and latent factor models. I am particularly interested in the applications of AI in computer vision and chemistry
 
 
 <!---

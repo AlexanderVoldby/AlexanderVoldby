@@ -1,4 +1,4 @@
-My name is Alexander Voldby, I am currently pursuing a bachelors degree in artificial intelligence and data science at the Technical university of Denmark
+My name is Alexander Voldby, I am currently pursuing a masters degree in mathematical modelling and computation at the Technical university of Denmark
 
 My work centers around artificial intelligence and using models to solve real-life problems. I have worked primarily with deep learning and latent factor models. I am particularly interested in the applications of AI in computer vision and chemistry
 
